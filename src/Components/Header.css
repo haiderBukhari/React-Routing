@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #fff;
+    width: 100vw;
+    height: 80px;
+    box-shadow: 3px 3px 10px #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fd2323;
+    text-align: center;
+}
